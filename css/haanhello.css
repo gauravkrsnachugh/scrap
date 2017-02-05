@@ -17,6 +17,7 @@ html {
   margin: 0;
   padding: 48px;
   padding: 3.9rem; 
+  margin: -29px;
 }
 
 .footer-find{
@@ -30,7 +31,8 @@ text-align: -webkit-center;
 }
 .footer-div {
     text-align: -webkit-center;
-}
+    margin: -29px;
+	}
 .footer-span {
     font-family: "ltc-bodoni-175";
     color: gray;
@@ -330,3 +332,43 @@ background: #FFFFFF;
 .icon-30:hover {
   background: #FFFFFF;
 }
+
+
+.banner0{
+background: #111;
+}
+.banner1{
+color:#FFFFFF;
+background: #111;
+font-family: "ltc-bodoni-175";
+    font-size: x-large;
+    padding: 0px 63px;
+}
+
+.haanhello-banner{
+    padding: 0px 446px;
+}
+
+.haanhello-shop{
+   padding: 173px 591px;
+}
+
+.haanhello-banner-group{
+padding: 1px 16px;
+}
+
+.button{
+
+background-color: gray;
+    border: none;
+    color: white;
+    padding: 17px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 22px;
+    letter-spacing: .1em;
+    font-weight: 100;
+    font-family: "proxima-nova";
+	border: 2px solid #111;
+	}
